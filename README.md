@@ -14,7 +14,7 @@ Excel / Google Таблицы · SQL · PostgreSQL (pgAdmin) · Git / GitHub · 
 |Работа|Что сделал|Инструменты|Ссылка|
 |-|-|-|-|
 |Анализ данных в Excel|Провёл расчёты, построил сводные таблицы и графики, выявил закономерности в данных|Excel|*https://github.com/warpov99/my-work-exel*|
-|SQL: JOIN и подзапросы|Написал запросы с JOIN и подзапросами для выборки данных из нескольких таблиц, проверил результаты в pgAdmin|SQL, PostgreSQL|*https://github.com/warpov99/homework-1<br />https://github.com/warpov99/homework-2<br />https://github.com/warpov99/homework3(queries.sql)*|
+|SQL: JOIN и подзапросы|Написал запросы с JOIN и подзапросами для выборки данных из нескольких таблиц, проверил результаты в pgAdmin|SQL, PostgreSQL|*https://github.com/warpov99/homework-1<br />https://github.com/warpov99/homework-2<br />https://github.com/warpov99/homework3*|
 |Работа с репозиториями|Публиковал учебный код, фиксировал изменения коммитами|Git, GitHub|https://github.com/warpov99|
 
 ## Проект семестра
